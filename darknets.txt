@@ -1,6 +1,6 @@
 Software used for bypassing censorship (maintaining privacy):
 
-        OpenVpn - Usage of VPN limit's info leading to your actions online including connections to teh darknet, though connection to a vpn may cause suspicion and may be blocked the same way
+        OpenVpn - Usage of VPN limit's info leading to your actions online including connections to teh darknet, though connection to a vpn may cause suspicion and may be blocked in the same way
 
 Software used for combating surveillance (maintaining anonymity):
 
