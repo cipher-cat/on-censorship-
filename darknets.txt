@@ -10,4 +10,4 @@ Software used for combating surveillance (maintaining anonymity):
 
         Freenet - A peer-to-peer anonymous network which is end-to-end encrypted. All users contribute to the network by sharing bandwith and hard drive space(files are/can be encrypted), so even if one is responsible for it's contents they will not be held responsible(hopefully).Popular in Asia(mainly China) and many countries in the middle east. There have been reported attacks against the network by authorities(just like all other darknets), through a specific process where they have acted as "peers" and intercepted data. Because of this there is a trust system that allows connections only to people you trust.
 
-        GnuNet - 
+        GnuNet - Decentralized P2P censorship resistant and anonymous network.
